@@ -10,7 +10,7 @@ O **Mão Dupla** é um baralho de conversa para pais e filhos de 14 a 18 anos, u
 
 ## O resultado
 
-| | |
+| | Número |
 |---|---|
 | **Meta** | 39 kits, o tamanho da primeira tiragem |
 | **Vendidos** | 60 kits a R$ 59,90, 54% acima da meta |
